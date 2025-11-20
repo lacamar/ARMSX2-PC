@@ -1,4 +1,4 @@
-# ARM64-PCSX2 
+# ARMSX2-PC
 
 PCSX2 that builds and runs on Aarch64 Linux and should build and run on MacOS, using the translator made by Pontos and improved on by the ARMSX2 team.
 This should be considered experimental.
